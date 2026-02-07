@@ -13,9 +13,13 @@ The goal is to explore patterns, trends, and relationships through effective vis
 
 🔍 * Key Features*
 Data Preparation
+
 Handling missing values
+
 Correcting data types
+
 Aggregation and preprocessing for analysis
+
 Visual Exploratory Data Analysis
 
 *Univariate Analysis:* Histograms, box plots, density plots
