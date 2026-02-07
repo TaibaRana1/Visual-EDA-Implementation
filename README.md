@@ -23,7 +23,9 @@ Aggregation and preprocessing for analysis
 Visual Exploratory Data Analysis
 
 *Univariate Analysis:* Histograms, box plots, density plots
+
 *Bivariate Analysis:* Scatter plots, bar charts, correlation matrices
+
 *Multivariate Analysis:* SPLOM, parallel coordinates, trellis plots
 
 Advanced techniques such as heatmaps, glyphs, and other visual encodings
@@ -40,7 +42,7 @@ Network Visualization
 
 Graph-based representation of 2014 World Cup football matches
 
-🛠️* Concepts & Techniques Used*
+* 🛠️ Concepts & Techniques Used*
 
 Visual Exploratory Data Analysis (EDA)
 Data storytelling through visualization
